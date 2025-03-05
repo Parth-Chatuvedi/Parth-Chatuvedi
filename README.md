@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthchaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="parthchaturvedi" /> </p>
 
-- 🔭 I’m currently working on [Online Quiz Platform](https://github.com/Parth-Chatuvedi/Online-Quiz-Application.git)
+- 🔭 I’m currently working on [Jan Aushadhi medicines and healthcare 
+services](https://github.com/Parth-Chatuvedi)
 
 - 💬 Ask me about **html,css,javascript,java,python,Mysql,node and express**
 
